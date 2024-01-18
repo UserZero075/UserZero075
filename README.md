@@ -1,6 +1,6 @@
 ## Bienvenido ¿Quiéres saber sobre mi?
 
-- Estoy trabajando en varios proyectos y tengo varios activos
+- Estoy trabajando en varios proyectos y varios ya en producción
 - Soy Full-Stack
 - He participado en la comunidad de Desarrolladores
 
