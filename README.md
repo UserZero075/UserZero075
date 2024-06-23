@@ -7,7 +7,7 @@
 ### Github Stats
 ![UserZero075-sys GitHub stats](https://github-readme-stats.vercel.app/api?username=UserZero075&count_private=true&show_icons=true&theme=dark)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UserZero075&hide_progress=true)](https://github.com/UserZero075/github-readme-stats?theme=dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UserZero075&hide_progress=true&theme=dark)](https://github.com/UserZero075/github-readme-stats)
 
 
 ### Skills
