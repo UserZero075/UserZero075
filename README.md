@@ -1,22 +1,57 @@
-## Bienvenido ¿Quiéres saber sobre mi?
+# 👾 Marlon Sarduy Machado
 
-- Estoy trabajando en varios proyectos y varios ya en producción
-- Soy Full-Stack
-- He participado en la comunidad de Desarrolladores
+**Full-stack developer · Cofounder @ DevFast Project · Cuba**
 
-### Github Stats
-![UserZero075-sys GitHub stats](https://github-readme-stats.vercel.app/api?username=UserZero075&count_private=true&show_icons=true&theme=dark)
+[![GitHub](https://img.shields.io/badge/-UserZero075-0d1117?style=flat&logo=github)](https://github.com/UserZero075)
+[![Telegram](https://img.shields.io/badge/-@User0075_69-0d1117?style=flat&logo=telegram)](https://t.me/User0075_69)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UserZero075&hide_progress=true&theme=dark)](https://github.com/UserZero075/github-readme-stats)
+---
 
+### Sobre mí
 
-### Skills
-<p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,fastapi,flask,django,selenium,js,html,css,go,git,nodejs,c,cs,cpp,astro,vue,react,bun,bots,figma,firebase,godot,nextjs,php,express,github,gitlab,docker,powershell,bash,linux,mysql,sqlite,postgres,mongodb,vscode,visualstudio,heroku,aws,vercel,netlify,replit,postman,regex,md&perline=12" />
-  </a>
-</p>
+Programador cubano de San José de las Lajas, Mayabeque. Construyo bots, APIs, apps web, herramientas de automatización e infraestructura Linux/VPS.
 
+Cofundé **DevFast Project** junto a Yama — un espacio donde experimento, shipéo herramientas, administro infraestructura, ofrezco servicios digitales y convierto problemas prácticos en software que funciona.
 
+Fuera del código, escribo poesía.
 
-![github-contribution-grid-snake](https://user-images.githubusercontent.com/106864876/179424426-29262e35-ab7b-4701-8ce3-8ed7db3d592b.svg)
+---
+
+### Stack
+
+`Node.js` · `TypeScript` · `Python` · `FastAPI` · `Flask` · `Django` · `JavaScript` · `Go` · `React` · `React Native` · `Docker` · `Linux/VPS` · `Telegram Bot API` · `PostgreSQL` · `SQLite` · `Prisma` · `Tailwind`
+
+---
+
+### Proyectos destacados
+
+| Proyecto | Descripción |
+|---|---|
+| **DevFast Manager** | Plataforma de gestión empresarial para pymes digitales. |
+| **ZerogramJS** | Librería Node.js para bots de Telegram. |
+| **WebConsole** | Terminal web por Tailscale con PTY real y xterm.js. |
+| **DF VPN Downloader** | Servicio de descarga para Cuba: bot + servidor + APK Android. |
+| **JsonFlux** | Herramientas para flujo de datos JSON. |
+| **SpawnSpace** | Script Linux para expandir almacenamiento vía LVM. |
+| **FileStreamBot** | Bot de Telegram para enlaces directos de descarga. |
+
+---
+
+### GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=UserZero075&count_private=true&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117)
+
+![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UserZero075&layout=compact&theme=dark&hide_border=true&bg_color=0d1117)
+
+---
+
+### Contacto
+
+- **GitHub:** [github.com/UserZero075](https://github.com/UserZero075)
+- **Telegram:** [@User0075_69](https://t.me/User0075_69)
+- **Proyectos:** [@Projects0075](https://t.me/Projects0075)
+- **DevFast:** [@DevFast](https://t.me/DevFast)
+
+---
+
+*Hecho con café en Cuba 🇨🇺*
